@@ -865,8 +865,8 @@ NODE_ENV=development
 
 ### 🔧 1. Clone the Repository
 ```bash
-git clone https://github.com/aditya32193213/taskflow.git
-cd taskflow
+git clone https://github.com/aditya32193213/mern-todo-app.git
+cd mern-todo-app
 ```
 
 ---
