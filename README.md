@@ -66,9 +66,9 @@
 
 | 🌐 Service | 🔗 URL |
 |------------|--------|
-| 🖥️ Frontend App | [Click here to open the app](YOUR_FRONTEND_URL_HERE) |
-| ⚙️ Backend API | [Click here to view the API](YOUR_BACKEND_URL_HERE) |
-| 🎬 Demo Video | [Click here to watch the demo](YOUR_DEMO_VIDEO_URL_HERE) |
+| 🖥️ Frontend App | [Click here to open the app](https://todo-frontend-swart-nine.vercel.app/) |
+| ⚙️ Backend API | [Click here to view the API](https://todo-backend-t5gm.onrender.com/) |
+| 🎬 Demo Video | [Click here to watch the demo](https://www.loom.com/share/cf2456f629684cfeaec0441862e4416d) |
 
 > ⚠️ *Replace the placeholders above with your actual deployed URLs.*
 
@@ -125,7 +125,7 @@ Make sure you have the following installed:
 **1️⃣ Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/taskflow.git
+git clone https://github.com/aditya32193213/mern-todo-app.git
 cd taskflow
 ```
 
