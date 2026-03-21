@@ -81,7 +81,7 @@
 
 ## 📸 Screenshots
 
-> 📁 **To add screenshots:** Create a `screenshots/` folder at the repo root, save your images with the exact filenames below, then push — GitHub renders them automatically.
+
 
 <div align="center">
 
